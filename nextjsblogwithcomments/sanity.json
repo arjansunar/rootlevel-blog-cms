@@ -1,12 +1,11 @@
 {
   "root": true,
-  "api": {
-    "projectId": "PLACEHOLDER_ENV_VARIABLES_WILL_HANDLE_FOR_US",
-    "dataset": "PLACEHOLDER_ENV_VARIABLES_WILL_HANDLE_FOR_US"
-  },
   "project": {
-    "name": "Next.js Comment-enabled blog",
-    "basePath": "/studio"
+    "name": "Next.js Blog with Comments"
+  },
+  "api": {
+    "projectId": "q6ueognt",
+    "dataset": "production"
   },
   "plugins": [
     "@sanity/base",
